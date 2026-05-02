@@ -76,7 +76,8 @@ Tools      : Git, Jupyter Notebook, Google Colab
 
 ---
 
-- 📝 **Blog:** [Tistory](https://qhfkvodrnls.tistory.com/)
+## 📝 Paper Review
+[Tistory](https://qhfkvodrnls.tistory.com/)
 
 ---
 
