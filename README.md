@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Taehyun's%20GitHub&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Welcome%20to%20Taehyun's%20GitHub&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50)
 
 # Tae-Hyun KIM
 
