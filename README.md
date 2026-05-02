@@ -16,7 +16,7 @@
 
 </div>
 
----
+
 
 ## 👤 About Me
 
@@ -29,7 +29,7 @@ I'm majoring in AI & Big Data Convergence Management, which allows me to approac
 - 💡 **Goal:** Build AI systems that solve real-world problems
 - 📚 **Major:** AI & Big Data Convergence Management
 
----
+
 
 ## 🎯 Interests
 
