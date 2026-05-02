@@ -31,6 +31,11 @@ I'm majoring in AI & Big Data Convergence Management, which allows me to approac
 
 
 
+
+
+
+
+
 ## 🎯 Interests
 
 | 👁 Computer Vision | 🔗 Multimodal AI | 🤖 Deep Learning | 📊 Data Analysis |
