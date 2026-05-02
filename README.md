@@ -49,7 +49,7 @@ Tools      : Git, Jupyter Notebook, Google Colab
 
 ---
 
-## 💼 Career
+## 💼 Activities
 
 | Period | Organization | Role |
 |--------|-------------|------|
@@ -68,11 +68,15 @@ Tools      : Git, Jupyter Notebook, Google Colab
 
 ---
 
-## 🏆 Certifications
+## 🏆 license
 
 | Certificate | Issuer | Year |
 |------------|--------|------|
 | 자격증 이름 | 발급 기관 | 20XX |
+
+---
+
+- 📝 **Blog:** [Tistory](https://qhfkvodrnls.tistory.com/)
 
 ---
 
