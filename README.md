@@ -28,20 +28,15 @@ I'm majoring in AI & Big Data Convergence Management, which allows me to approac
 - 🌱 **Learning:** Deep Learning fundamentals & Computer Vision
 - 💡 **Goal:** Build AI systems that solve real-world problems
 - 📚 **Major:** AI & Big Data Convergence Management
-
-
-
-
-
-
-
+  
+<br>
 
 ## 🎯 Interests
 
 | 👁 Computer Vision | 🔗 Multimodal AI | 🤖 Deep Learning | 📊 Data Analysis |
 |:---:|:---:|:---:|:---:|
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -52,7 +47,7 @@ Libraries  : OpenCV, Pandas, NumPy, Matplotlib, scikit-learn
 Tools      : Git, Jupyter Notebook, Google Colab
 ```
 
----
+<br>
 
 ## 💼 Activities
 
@@ -69,7 +64,7 @@ Tools      : Git, Jupyter Notebook, Google Colab
 | 2025.12 ~ 2025.03 | 교내 | 국민대학교 경영대학 제8대 비상대책위원회 기획부원 |
 | 2025.12 ~ | 교내 | AI빅데이터융합경영학과 인공지능 학회 X:AI 운영진 |
 
----
+<br>
 
 ## 📂 Projects
 
@@ -83,7 +78,7 @@ Tools      : Git, Jupyter Notebook, Google Colab
 | 드래그 기반 생존 게임 시스템 구현 | Python | 2025 | [GitHub](#) |
 | CVAE 및 CDCGAN 코드 구현 | PyTorch | 2026 | [GitHub](#) |
 
----
+<br>
 
 ## 🏆 Competitions
 
@@ -95,7 +90,7 @@ Tools      : Git, Jupyter Notebook, Google Colab
 | 2025 기후변화 비즈니스 아이디어 공모전 | 국민대학교 기후변화대응사업단 | 대상 | 2025 |
 | 구조물 안정성 물리 추론 AI 경진대회 | 데이콘 | 상위 23% | 2026 |
 
----
+<br>
 
 ## 🪪 license
 
@@ -105,12 +100,12 @@ Tools      : Git, Jupyter Notebook, Google Colab
 | SQLD | 한국데이터산업진흥원 | 2025 | 영구 |
 | 빅데이터분석기사(필기) | 한국데이터산업진흥원 | 2026 | 2028 |
 
----
+<br>
 
 ## 📝 Paper Review
 [![Tistory](https://img.shields.io/badge/Tech%20Blog-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://qhfkvodrnls.tistory.com/)
 
----
+<br>
 
 ## 📊 GitHub Stats
 
@@ -119,7 +114,7 @@ Tools      : Git, Jupyter Notebook, Google Colab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kth020829-cell&layout=compact&theme=default&hide_border=true" height="160"/>
 </div>
 
----
+<br>
 
 <div align="center">
   <i>Passionate · Consistent · Always Growing 🚀</i>
