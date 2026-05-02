@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=500&section=header&text=Welcome%20to%20Taehyun's%20GitHub&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&desc=Aspiring%20AI%20Engineer&descAlign=50&descAlignY=65&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Taehyun's%20GitHub&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Aspiring%20AI%20Engineer&descAlign=50&descAlignY=65&descSize=25)
 
 # Tae-Hyun KIM
 
