@@ -86,7 +86,10 @@ Tools      : Git, Jupyter Notebook, Google Colab
 | 순위 및 시기별 KBO 5개 구단 특성 파악 | Python(데이터분석) | 2025 | [GitHub](#) |
 | 국회 회의록 텍스트 데이터의 시계열 변화 분석: 베이지안 Change Point 모델 적용 | Python(데이터분석) | 2025 | [GitHub](#) |
 | 드래그 기반 생존 게임 시스템 구현 | Python | 2025 | [GitHub](#) |
-| CVAE 및 CDCGAN 코드 구현 | PyTorch | 2026 | [GitHub](#) |
+| RNN·LSTM·BiLSTM·BERT·GPT-2 감정 분류 성능 비교 | PyTorch, NLP | 2025 | [GitHub](#) |
+| CVAE · CDCGAN · DDPM/DDIM 이미지 생성 모델 구현 | PyTorch | 2026 | [GitHub](#) |
+| YOLO v8 vs v11 vs v26 벤치마크 비교 | Python, YOLO | 2026 | [GitHub](#) |
+| CLAUS — 자동차 사고 손해사정 업무 보조 AI Agent | Dify, LLM, RAG | 2026 | [GitHub](#) |
 
 <br>
 
